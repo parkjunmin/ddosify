@@ -7,12 +7,12 @@ require (
 	github.com/enescakir/emoji v1.0.0
 	github.com/fatih/color v1.13.0
 	github.com/google/uuid v1.3.0
-	golang.org/x/net v0.0.0-20210825183410-e898025ed96a
+	github.com/mattn/go-colorable v0.1.11
+	golang.org/x/net v0.17.0
 )
 
 require (
-	github.com/mattn/go-colorable v0.1.11 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
-	golang.org/x/sys v0.0.0-20211015200801-69063c4bb744 // indirect
-	golang.org/x/text v0.3.6 // indirect
+	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 )
